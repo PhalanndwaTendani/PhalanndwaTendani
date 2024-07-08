@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @PhalanndwaTendani
 - 👀 I’m interested in becoming a Full Stack Developer · Mobile Application Developer · Sql Server Database Administrator · Website Developer · Software Engineer.
-- 🌱 I’m currently learning C# and Java
-- 💞️ I’m looking to collaborate on website,mobile applications and software development
+- 🌱 I’m currently learning C#,Java,sql,css and dbl
+- 💞️ I’m looking forward to collaborate on website,mobile applications and software development
 - 📫 How to reach me :Email Address: tendaniephalas@gmail.com |Phone number: (+27)64 700 8423
 - 😄 Pronouns: MR
 - ⚡ Fun fact: I prefer coding in dark mode because light attracts bugs,lmao.
